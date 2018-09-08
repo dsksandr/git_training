@@ -5,3 +5,7 @@ function hiWorld() {
     confirm('Are you ready?');
 }
 hiWorld();
+function newBreanch() {
+    alert('Создали новую ветку проекта.')
+}
+newBreanch()
