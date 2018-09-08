@@ -8,4 +8,7 @@ hiWorld();
 function newBreanch() {
     alert('Создали новую ветку проекта.')
 }
-newBreanch()
+newBreanch();
+let array = [];
+array[0] = 'Привет!'
+console.log(array);
